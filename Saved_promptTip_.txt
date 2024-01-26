@@ -1,0 +1,51 @@
+You:
+
+
+act as expert in CHATGPT who design this sytem, tell me the prompt cheatsheet to get the best from chatgpt4
+------------------
+ChatGPT:
+
+
+Alright, I'll give you a "cheat sheet" of sorts to help you make the most of ChatGPT-4. Think of it like having some inside tips to get the best experience!
+
+Be Specific: The more detailed your question or prompt, the better. If you're vague, I might not get exactly what you're after. For example, instead of saying "tell me about dogs," you could say, "tell me about the training methods for Labrador Retrievers."
+
+Use Clear and Direct Language: Try to be clear and straightforward. This helps me understand exactly what you're asking.
+
+Sequential Interaction: If you're working on something complex, like writing a story or solving a math problem, keep the conversation going in a sequence. I remember our previous interactions in the same conversation, which helps in providing consistent responses.
+
+Provide Context: If your question is about a specific topic or requires certain knowledge, give me a bit of background. It's like setting the stage for your question.
+
+Feedback and Corrections: Don't hesitate to correct me if I get something wrong or if the response isn't what you were expecting. You can tell me directly, like, "That's not right, here's what I meant," or, "Please try again, focusing more on [specific aspect]."
+
+Try Different Formats: I can handle various formats like Q&A, generating lists, explanations, stories, and more. Feel free to experiment with what you ask.
+
+Limitations Awareness: Remember, I can't browse the internet for real-time data or access personal data unless you provide it in the conversation. I'm also not great at understanding very personal or deeply emotional issues.
+
+Explore Creativity: Use me for creative tasks like brainstorming, writing stories, or coming up with ideas. You might be surprised at what I can come up with.
+
+Patience with Complex Tasks: For complex requests, like long articles or detailed explanations, it might take me a bit longer to respond. Your patience is appreciated!
+
+Fun and Learning: Don't forget, you can use ChatGPT-4 for fun stuff too, like trivia, jokes, or learning about new topics.
+
+And remember, the more you interact with me, the better I can get at understanding and responding to your specific needs and style. Happy chatting!
+------------------
+You:
+
+
+put in table, give 5 samples for each
+------------------
+ChatGPT:
+
+
+Sure, I'll put together a table with the tips and provide five examples for each. This should give you a clear idea of how to apply these tips in different scenarios:
+
+Tip	Examples
+1. Be Specific	1. Instead of "tell me about space," ask "What are the characteristics of Jupiter's moons?" <br> 2. Rather than "how to cook," try "How do I make a vegetarian lasagna?" <br> 3. Instead of "history stuff," ask "What were the main causes of World War II?" <br> 4. Rather than "good books," ask "What are some recommended science fiction novels for teenagers?" <br> 5. Instead of "tell me about animals," ask "What are the unique features of the Australian platypus?"
+2. Use Clear and Direct Language	1. "What is the boiling point of water?" instead of "When does water get really hot?" <br> 2. "Explain Newton's laws of motion" rather than "Tell me about that famous scientist's ideas." <br> 3. "What are the health benefits of jogging?" instead of "Is running good?" <br> 4. "How do solar panels work?" rather than "Can you tell me about those things that convert sunlight?" <br> 5. "What's the process of photosynthesis in plants?" instead of "How do plants do their food thing?"
+3. Sequential Interaction	1. First ask "What are the basics of quantum physics?" then follow up with "Can you explain the uncertainty principle in quantum mechanics?" <br> 2. Start with "How do I start a small business?" then ask "What are some effective marketing strategies for new businesses?" <br> 3. Begin with "Tell me about Python programming," then continue with "Can you provide examples of Python loops?" <br> 4. First inquire "What is climate change?" followed by "What are the main causes of climate change?" <br> 5. Start with "Explain the French Revolution," then ask "Who were the key figures in the French Revolution?"
+4. Provide Context	1. "I'm writing a sci-fi novel, can you suggest some futuristic technologies that might exist in 2100?" <br> 2. "I have a beginner's knowledge of chess, can you suggest strategies to improve my game?" <br> 3. "As a high school teacher, I need some interesting ways to teach the periodic table." <br> 4. "For my diet plan, what are some healthy, high-protein vegetarian meals?" <br> 5. "I'm planning a trip to Japan, what are some cultural customs I should be aware of?"
+5. Feedback and Corrections	1. "Your explanation of quantum computing was a bit complex. Can you simplify it?" <br> 2. "The recipe you provided is too elaborate. Do you have a simpler version?" <br> 3. "The historical dates you mentioned are incorrect. The correct year is 1066." <br> 4. "I asked for budget travel tips, but these seem expensive. Can you provide more cost-effective suggestions?" <br> 5. "Your response about the solar system didn't include Pluto. Please include it, even if it's a dwarf planet now."
+
+These examples should help you formulate your questions or prompts in a way that maximizes the effectiveness of my responses.
+------------------
