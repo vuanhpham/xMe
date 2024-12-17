@@ -1,6 +1,32 @@
 You:
 
+Here’s the updated email with your requested addition:
 
+---
+
+**Subject: Request for Sign-off on New System and Next Steps**
+
+Dear [Recipient's Name],
+
+It has been one month since the introduction of the new system, and we have already held a briefing session on this topic. The new system is set to replace the DRRS in 2025, and moving forward, the annual attestation will no longer be conducted using the Excel-based DRRS.
+
+Please ensure that you are familiar with the new system and that the records migrated from the DRRS files meet your expectations. Additionally, please ensure you have gained the consensus of the team head/FH on the sign-off. With this email, I kindly request your formal sign-off for the new system.
+
+In the event that any gaps are identified in the records within the system, we will follow the Group ILM procedure to resolve them. This process requires the approval of FH, followed by raising a JIRA ticket for the necessary fixes. The team will allocate the appropriate resources to support us through this process. This will also be the standard procedure (BAU) whenever we need to add, remove, or edit anything on this system going forward.
+
+For your reference, the full procedure is available here. Should you require any changes or need further assistance with the process, please don't hesitate to reach out to me. As the process involves some technical aspects, I am happy to provide additional support, i.e., help you prepare the file for the changes and raise the JIRA ticket.
+
+Thank you for your attention to this matter.
+
+Best regards,  
+[Your Name]  
+[Your Job Title]  
+[Your Contact Information]
+
+---
+
+This version now includes the additional details on your role in assisting with preparing files and raising JIRA tickets. Let me know if you need further adjustments!
+##
 as an expert in data science, outline a paper for Cash Flow Forecasting report
 ------------------
 ChatGPT:
